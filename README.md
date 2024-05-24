@@ -1,6 +1,6 @@
 [![Header](https://github.com/MaksymTkachQA/MaksymTkachQA/blob/main/assets/MAksym%20Tkach.png)](https://www.linkedin.com/in/maksymtkach/)
 
-# I am a manual software tester passionate about ensuring product quality and reliability.
+## I am a manual software tester passionate about ensuring product quality and reliability.
 
 ## Languages and tools 
 ![Jira](https://img.shields.io/badge/%20Jira%20-084DD4?style=for-the-badge&logo=jira)
@@ -14,6 +14,17 @@
 ![Sheets](https://img.shields.io/badge/%20Sheets%20-E1E6E6?style=for-the-badge&logo=googlesheets)
 ![Docs](https://img.shields.io/badge/%20Docs%20-E1E6E6?style=for-the-badge&logo=googledocs)
 ![MySQl](https://img.shields.io/badge/%20MySQL%20-D6AB79?style=for-the-badge&logo=mysql)
+
+### Follow me 
+[![Telegram](https://img.shields.io/badge/%20Telegram%20-DBD5CE?style=for-the-badge&logo=telegram)](https://t.me/@maksymtkach9)
+[![Instagram](https://img.shields.io/badge/%20Instagram%20-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maximelian999?igsh=MWdyMzc1M3p0NWF5ZQ==)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-125AE6?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/maksymtkach/)
+
+
+
+
+
+
 
 
 
