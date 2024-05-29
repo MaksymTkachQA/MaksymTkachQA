@@ -16,11 +16,13 @@
 ![Sheets](https://img.shields.io/badge/%20Sheets%20-E1E6E6?style=for-the-badge&logo=googlesheets)
 ![Docs](https://img.shields.io/badge/%20Docs%20-E1E6E6?style=for-the-badge&logo=googledocs)
 ![MySQl](https://img.shields.io/badge/%20MySQL%20-D6AB79?style=for-the-badge&logo=mysql)
+![JS](https://img.shields.io/badge/%20JavaScript%20-000000?style=for-the-badge&logo=javascript)
+![pHp](https://img.shields.io/badge/%20php%20-000000?style=for-the-badge&logo=php)
 
 ## TEST DELIVERABLES 
--[Test case](https://docs.google.com/spreadsheets/d/1ZuBN0AREAR1bT53XfoJ5nvNwecuygBX4becwmFsaoqc/edit?usp=sharing)
+- [Test case](https://docs.google.com/spreadsheets/d/1ZuBN0AREAR1bT53XfoJ5nvNwecuygBX4becwmFsaoqc/edit?usp=sharing)
 
--[Bag report](https://docs.google.com/spreadsheets/d/1Qk_Sm75j8yaVH8JSbK7pCoHHZ3u9hUVXMCT2cM0NFAY/edit?usp=sharing)
+- [Bag report](https://docs.google.com/spreadsheets/d/1Qk_Sm75j8yaVH8JSbK7pCoHHZ3u9hUVXMCT2cM0NFAY/edit?usp=sharing)
 
 ### FOLLOW ME  
 [![Telegram](https://img.shields.io/badge/%20Telegram%20-DBD5CE?style=for-the-badge&logo=telegram)](https://t.me/maksymtkach9)
