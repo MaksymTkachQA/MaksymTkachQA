@@ -28,13 +28,14 @@
 ### This section highlights the websites I have developed to showcase my abilities and use them for creating comprehensive test documents.
 
 - [My website for playing chess](https://maksymtkach.site/)
-- [A website for great Chuck Norris jokes](https://testapi.maksymtkach.site/)
+- [A website for great Chuck Norris jokes using API](https://testapi.maksymtkach.site/)
 
 
 ### FOLLOW ME  
 [![Telegram](https://img.shields.io/badge/%20Telegram%20-DBD5CE?style=for-the-badge&logo=telegram)](https://t.me/maksymtkach9)
 [![Instagram](https://img.shields.io/badge/%20Instagram%20-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maximelian999?igsh=MWdyMzc1M3p0NWF5ZQ==)
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-125AE6?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/maksymtkach/)
+[![Gmail](https://img.shields.io/badge/%20Gmail%20-DBD5CE?style=for-the-badge&logo=gmail)](maksymtkach95@gmail.com)
 
 
 
