@@ -35,7 +35,7 @@
 [![Telegram](https://img.shields.io/badge/%20Telegram%20-DBD5CE?style=for-the-badge&logo=telegram)](https://t.me/maksymtkach9)
 [![Instagram](https://img.shields.io/badge/%20Instagram%20-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maximelian999?igsh=MWdyMzc1M3p0NWF5ZQ==)
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-125AE6?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/maksymtkach/)
-[![Gmail](https://img.shields.io/badge/%20Gmail%20-DBD5CE?style=for-the-badge&logo=gmail)](maksymtkach95@gmail.com)
+[![Gmail](https://img.shields.io/badge/%20Gmail%20-DBD5CE?style=for-the-badge&logo=gmail)](mailto:maksymtkach95@gmail.com)
 
 
 
