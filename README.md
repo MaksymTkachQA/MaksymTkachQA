@@ -24,6 +24,13 @@
 
 - [Bag report](https://docs.google.com/spreadsheets/d/1Qk_Sm75j8yaVH8JSbK7pCoHHZ3u9hUVXMCT2cM0NFAY/edit?usp=sharing)
 
+## MY PERSONAL WEBSITES
+### This section highlights the websites I have developed to showcase my abilities and use them for creating comprehensive test documents.
+
+- [My website for playing chess](https://maksymtkach.site/)
+- [A website for great Chuck Norris jokes](https://testapi.maksymtkach.site/)
+
+
 ### FOLLOW ME  
 [![Telegram](https://img.shields.io/badge/%20Telegram%20-DBD5CE?style=for-the-badge&logo=telegram)](https://t.me/maksymtkach9)
 [![Instagram](https://img.shields.io/badge/%20Instagram%20-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maximelian999?igsh=MWdyMzc1M3p0NWF5ZQ==)
